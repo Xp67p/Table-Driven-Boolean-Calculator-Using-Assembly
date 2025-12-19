@@ -2,7 +2,7 @@
 
 1.Open the project in Visual Studio
 
-2.Make sure the build configuration is set to x86
+2.Make sure the build configuration is set to x86 , also downloaded Irvine32.inc.
 
 3.Assemble and run the program
 
